@@ -1,4 +1,6 @@
-# PDF Chatbot with Google ADK
+# PDF Chatbot with Google ADK -- Use adk branch
+
+**Main branch has direct open api llm calls with tools**
 
 A professional, production-ready PDF chatbot built with Google Agent Development Kit (ADK), OpenAI models, ChromaDB, and Streamlit. Upload PDFs and interact with them using an intelligent agent that knows when to search documents and when to respond directly.
 
